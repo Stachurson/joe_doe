@@ -160,6 +160,7 @@ section {
   color: white;
   position: relative;
   margin-top: 150px;
+  margin-bottom: 0;
 }
 
 .wrapper-form form {
@@ -214,5 +215,11 @@ form .input {
 .button:hover {
   background-position: 0 100%;
   cursor: pointer;
+}
+
+/* Footer */
+footer i {
+  font-size: 70px;
+  margin: 15px 0;
 }
 /*# sourceMappingURL=style.css.map */
